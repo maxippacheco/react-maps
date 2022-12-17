@@ -1,3 +1,4 @@
+
 import { ChangeEvent, useRef, useContext } from 'react';
 import { PlacesContext } from '../context';
 import { SearchResults } from './';
